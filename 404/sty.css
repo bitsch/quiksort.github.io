@@ -1,12 +1,7 @@
 body { background-color: #111111; }
 @font-face {
     font-family: 'fff_tusjbold';
-    src: url('FFF_Tusj-webfont.eot');
-    src: url('FFF_Tusj-webfont.eot?#iefix') format('embedded-opentype'),
-         url('FFF_Tusj-webfont.woff') format('woff'),
-         url('FFF_Tusj-webfont.ttf') format('truetype'),
-         url('FFF_Tusj-webfont.svg#fff_tusjbold') format('svg');
-
+    src: url('FFF_Tusj-webfont.woff') format('woff');
 }
 h1{
  COLOR:#fff;
